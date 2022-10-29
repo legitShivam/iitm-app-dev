@@ -18,6 +18,11 @@ The deadline for the demonstration of this App, bo th front-end and back-end, wi
 - [@Shambhavi](https://github.com/nebulatris)
 - [@Shivam](https://www.github.com/legitShivam)
 
+## Dataset
+
+<embed src="./problem-statement-mail.pdf" type="application/pdf">
+<embed src="./camera-dataset.docx" type="application/pdf">
+
 ## Documentation
 
 [Documentation](./documentation.md)
