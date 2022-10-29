@@ -20,8 +20,7 @@ The deadline for the demonstration of this App, bo th front-end and back-end, wi
 
 ## Dataset
 
-<embed src="./problem-statement-mail.pdf" type="application/pdf">
-<embed src="./camera-dataset.docx" type="application/pdf">
+[Documentation](./dataset.md)
 
 ## Documentation
 
