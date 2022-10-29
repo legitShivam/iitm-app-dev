@@ -18,13 +18,10 @@ The deadline for the demonstration of this App, bo th front-end and back-end, wi
 - [@Shambhavi](https://github.com/nebulatris)
 - [@Shivam](https://www.github.com/legitShivam)
 
-## Dataset
-
-[Documentation](./dataset.md)
-
 ## Documentation
 
 [Documentation](./documentation.md)
+[Dataset](./dataset.md)
 
 ## Roadmap
 
