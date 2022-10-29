@@ -9,24 +9,20 @@ IITM Surveillance System is a Mobile App using which the end-user can, by pressi
 At the back-end, on receipt of this latitude and longitude (query location) along with the time, the feeds of all the cameras at increasing distances from the query location will be made available for viewing through a select menu.
 
 ## Deadline
----
 
 The deadline for the demonstration of this App, bo th front-end and back-end, will be scheduled by IITM in the **first week of December 2022**. 
 
 ## Authors
----
 
 - [@Aabhas](https://github.com/AabhasKrJha)
 - [@Shambhavi](https://github.com/nebulatris)
 - [@Shivam](https://www.github.com/legitShivam)
 
 ## Documentation
----
 
 [Documentation]()
 
 ## Roadmap
----
 
 - Add frontend
 
